@@ -19,3 +19,5 @@ A relational database system built with MySQL to manage student course registrat
 
 ## What I Learned
 Database normalization, JOINs, aggregate functions, and designing schemas for real-world use cases.
+
+- Advanced SQL queries: ranking, aggregations, and GROUP BY analytics
